@@ -3,4 +3,4 @@
 This README would normally document whatever steps are necessary to get (*the
 pinteresting application*) up and running.
 
-by Andrew Pham
+by Andrew Thu Pham
